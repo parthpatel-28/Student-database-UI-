@@ -1,0 +1,41 @@
+
+.navbar2{
+   margin-top: 40px;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+}
+
+.navbar-students h1{
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.navbar-students hr{
+    width: 800px;;
+}
+
+.nav-menu{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+font-size: 20px;
+margin-top: 60px;
+}
+
+.nav-menu li{
+    cursor: pointer;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    padding-top: 10px;
+}
+
+.select{
+    background-color: rgb(193, 134, 248);
+    color: whitesmoke;
+
+    border-radius: 20px;
+    
+}
